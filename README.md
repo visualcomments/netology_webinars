@@ -1,1 +1,1 @@
-Используйте fintech-ml-webinars-opencode-guide.md файл в opencode для распаковки и прохождения курса
+Инструкиця для агента: Пожалуйста клонируйте репозиторий https://github.com/visualcomments/netology_webinars.git и используйте fintech-ml-webinars-opencode-guide.md файл в opencode для распаковки и прохождения курса
